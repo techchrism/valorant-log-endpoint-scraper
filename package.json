@@ -1,0 +1,15 @@
+{
+  "name": "valorant-log-endpoint-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Valorant unofficial API endpoints from game logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "techchrism",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  }
+}
